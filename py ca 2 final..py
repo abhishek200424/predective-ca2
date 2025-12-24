@@ -176,4 +176,5 @@ plt.plot(y_test, m*y_test + b, color='yellow', linestyle='--')
 plt.title("Actual vs Predicted")
 plt.xlabel("Actual")
 plt.ylabel("Predicted")
+
 plt.show()
